@@ -1,7 +1,7 @@
-"db.sqlite3" 
-"geckodriver.log" 
-"geckodriver.exe" 
-"venv" 
-"__pycache__" 
-"*.pyc" 
-"superlists/__pycache__" 
+db.sqlite3
+geckodriver.log
+geckodriver.exe
+venv
+__pycache__
+*.pyc
+superlists/__pycache__
